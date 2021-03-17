@@ -1,0 +1,12 @@
+x=22.4
+h=33
+y=int(x)
+z=float(h)
+sr1=str(y)
+sr2=str(z)
+bol1=True
+print(type(y))
+print(type(z))
+print(type(sr1))
+print(type(sr2))
+print(type(bol1))

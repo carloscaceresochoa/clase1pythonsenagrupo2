@@ -1,0 +1,6 @@
+nomapel=input("digite el nombre\n")
+edad=int(input("digite la edad\n"))
+est=float(input("digite la estatura\n"))
+print(nomapel)
+print(edad)
+print(est)

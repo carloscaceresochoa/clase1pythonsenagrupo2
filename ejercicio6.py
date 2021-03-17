@@ -1,0 +1,10 @@
+x=22.4
+h=33
+y=int(x)
+z=float(h)
+sr1=str(y)
+sr2=str(z)
+print(y)
+print(z)
+print(sr1)
+print(sr2)
